@@ -56,19 +56,19 @@ Many cities use solar photovoltaic (PV) panels to power off-grid bike share stat
 
 
 ### We found station location, i.e. whether it is in the shadow of nearby buildings, is critical for self-sufficiency level
-<video width="800" controls>
-  <source src="plot/solaranimation_w2station_DG.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+![Solar Radiation Animation](plot/solaranimation_w2station_DG.mp4)
+
 *Animation showing solar radiation patterns in downtown Chicago*
 
-### Stations were not energy self-sufficient with an average level of 56%
-### With an average of 6.8 years, most stations’ energy payback time were within their lifespan of 10 years
+
+Stations were not energy self-sufficient with an average level of 56%
+With an average of 6.8 years, most stations’ energy payback time were within their lifespan of 10 years
 ![Map](plot/zerodowntimemap.jpg)
-*Zero downtime strategy*
 
 
-### Stations in CBD would benefit from customized strategy
+
+Stations in CBD would benefit from customized strategy
 ![Custom strategy](plot/customstrategy.jpg)
 *Stations in CBD would benefit from customized strategy*
 
