@@ -1,12 +1,12 @@
 # Bike Share Solar Energy Self-Sufficiency Analysis
 
-This repository contains the code associated with the research paper **"Bike Share Solar Energy Self-Sufficiency"** published in [Applied Energy](https://www.sciencedirect.com/science/article/pii/S0306261923008693?via=ihub).
+This repository contains the code associated with the research paper **"Photovoltaic-battery powered bike share stations are not necessarily energy self-sufficient"** published in [Applied Energy](https://www.sciencedirect.com/science/article/pii/S0306261923008693?via=ihub).
 
 ## Abstract
 
 Many cities use solar photovoltaic (PV) panels to power off-grid bike share stations to provide sustainable transportation. When a station's energy demand for operating the station's kiosk and docks exceeds the PV panel's supply, the battery can be depleted, requiring manual battery replacement to avoid service disruption. However, existing research on siting, modeling, or assessing the environmental impacts of bike share stations has not accounted for spatially variable solar PV potential and energy usage. This study addresses this gap to analyze the performances of PV-battery systems for bike share stations and evaluates strategies to improve their energy independence, sustainability, and system reliability. Using Chicago's Divvy bike share system as a case study, we simulated the battery charging, discharging, and replacements, and measured their performances with three metrics: energy self-sufficiency level, energy payback time (EPBT), and station downtime. We found that PV energy alone is insufficient to meet all energy needs of bike share stations, with the average energy self-sufficiency levels being 56%. Additionally, relying solely on battery replacement during rebalancing operations was insufficient to maintain stations' operational status. On average, bike share operators need to manually replace a station's batteries 72 times a year. Furthermore, the current PV panels for most stations are sized too small. Increasing panel sizes could reduce most stations' downtime and increase their self-sufficiency without significantly affecting EPBT. The study highlights the need for bike share system modeling and operation planning to account for battery replacement needs and demonstrates the importance to evaluate smaller yet large-scale street-level PV applications. The modeling framework presented in this study can also be extended to examine other smaller PV-battery systems similar to bike stations.
 
-```
+
 
 ## Key Findings
 
@@ -87,4 +87,4 @@ If you use this code or data in your research, please cite:
   year={2023},
   doi={https://doi.org/10.1016/j.apenergy.2023.121234}
 }
-```
+
