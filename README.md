@@ -57,7 +57,7 @@ Many cities use solar photovoltaic (PV) panels to power off-grid bike share stat
 
 ### We found station location, i.e. whether it is in the shadow of nearby buildings, is critical for self-sufficiency level
 
-![Solar Radiation Animation](plot/solaranimation_w2station_DG.mp4)
+![Solar Radiation Animation](plot/solaranimation.gif)
 
 *Animation showing solar radiation patterns in downtown Chicago*
 
@@ -70,7 +70,6 @@ With an average of 6.8 years, most stations’ energy payback time were within t
 
 Stations in CBD would benefit from customized strategy
 ![Custom strategy](plot/customstrategy.jpg)
-*Stations in CBD would benefit from customized strategy*
 
 
 
@@ -79,12 +78,15 @@ Stations in CBD would benefit from customized strategy
 If you use this code or data in your research, please cite:
 
 ```bibtex
-@article{bike_share_solar_2023,
-  title={Bike Share Solar Energy Self-Sufficiency},
-  journal={Applied Energy},
-  volume={},
-  pages={},
-  year={2023},
-  doi={https://doi.org/10.1016/j.apenergy.2023.121234}
+@article{LI2023121505,
+title = {Photovoltaic-battery powered bike share stations are not necessarily energy self-sufficient},
+journal = {Applied Energy},
+volume = {348},
+pages = {121505},
+year = {2023},
+issn = {0306-2619},
+doi = {https://doi.org/10.1016/j.apenergy.2023.121505},
+url = {https://www.sciencedirect.com/science/article/pii/S0306261923008693},
+author = {Yue Li and Hao Luo and Hua Cai}
 }
 
