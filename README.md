@@ -1,6 +1,6 @@
 # Bike Share Solar Energy Self-Sufficiency Analysis
 
-This repository contains the code associated with the research paper **"Photovoltaic-battery powered bike share stations are not necessarily energy self-sufficient"** published in [Applied Energy](https://www.sciencedirect.com/science/article/pii/S0306261923008693?via=ihub).
+This repository contains the code associated with the research paper **"Photovoltaic-battery powered bike share stations are not necessarily energy self-sufficient"** published in Applied Energy [link](https://doi.org/10.1016/j.apenergy.2023.121505).
 
 ## Abstract
 
